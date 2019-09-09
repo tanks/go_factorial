@@ -1,0 +1,6 @@
+bench run: 
+> go test -bench .
+
+run app: 
+go build && ./simple 
+
